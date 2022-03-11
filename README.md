@@ -29,10 +29,4 @@ Luego de crear el arbol ejecutar el metodo de consulta por postman como indica l
 ![image](https://user-images.githubusercontent.com/78892438/157811125-73d44b19-5084-4c28-94ba-e2e9436d4d12.png)
 
 
-_Que cosas necesitas para instalar el software y como instalarlas_
 
-```
-
-```
-
-### Instalación 🔧
