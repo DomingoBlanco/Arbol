@@ -1,18 +1,22 @@
 # Arbol Back
 Proyecto prueba árbol binario
 
+### Pre-requisitos 📋
+Tener java 8 instalado en la pc
+
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener tener una idea de como ejecutar el proyecto 
 
-Lo primero es  tener el ide **Spring tolls suite 4** para poder importar el proyecto.
+1.- Lo primero es  tener el ide **Spring tolls suite 4** para poder importar el proyecto.
 
-Bajar el proyecto de git realizando un git clone
+2.- Bajar el proyecto de git realizando un  **git clone https://github.com/DomingoBlanco/Arbol.git**
 
-Importa el proyecto en el ide Spring tools suite
+3.- Cambiar a la rama master ejecutando el comando **git checkout master**
 
-### Pre-requisitos 📋
-Tener java 8 instalado en la pc
+4.- Importa el proyecto en el ide Spring tools suite
+
+
 
 Para correr el proyecto dar click en el recuadro rojo para que inicie el proyecto tal como indica la imagen
 
