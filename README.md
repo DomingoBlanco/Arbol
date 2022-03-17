@@ -2,8 +2,8 @@
 Proyecto prueba árbol binario
 
 ### Pre-requisitos 📋
-Tener java 8 instalado en la pc
-Tener maven configurado
+Tener java 8 instalado en la pc,
+tener maven configurado
 
 ## Comenzando 🚀
 
